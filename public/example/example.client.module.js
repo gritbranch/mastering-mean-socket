@@ -1,0 +1,1 @@
+angular.module('example', []); //Creates an AngularJS module

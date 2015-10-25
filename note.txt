@@ -1,0 +1,2 @@
+1. Install Bower globally
+npm install -g bower
